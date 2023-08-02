@@ -1,0 +1,58 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Oi Dgou tudo certo?",
+      "autoria": "Dgou",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "to maluco",
+      "autoria": "Dgou 2",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "AAAAAAAAAAAAAA",
+      "autoria": "Dgou 3",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "novo pensamento gamer super gamer uhuuuuuu dr stone mt massa mt maneiro wowo gamer fdf d f dkf kjd fj djkf kjd sjkskss  dsdfdf dfdfds mais uma line ",
+      "autoria": "Dgou 4",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO SUPER DGOU FODA FLAMENGO MELHOR TIME DO MUNDO",
+      "autoria": "flamengo",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Flamengo é vida, vida boa, tranquila e bonita",
+      "autoria": "Dgou 72",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "Como é bom viver!  é mt bom viver tmj !!!!!!",
+      "autoria": "Jesus Cristo",
+      "modelo": "modelo1",
+      "id": 7
+    },
+    {
+      "conteudo": "FAAAAAAAAAAAAAAAAAAAAAAZ O L!!!!",
+      "autoria": "Lulu",
+      "modelo": "modelo2",
+      "id": 8
+    },
+    {
+      "conteudo": "me caguei",
+      "autoria": "Tiaguinho",
+      "modelo": "modelo3",
+      "id": 9
+    }
+  ]
+}
